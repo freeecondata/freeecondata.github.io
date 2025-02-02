@@ -1,0 +1,4 @@
+*.Rhistory
+*.RData
+*01_web_page.Rproj
+*.gitignore
